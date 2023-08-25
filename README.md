@@ -1,0 +1,2 @@
+# safepal
+the safest webbrowser
